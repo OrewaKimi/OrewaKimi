@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://github.com/orewakimi)
 <h1 align="center">Hi, I'm Kimi Maulana</h1>
-<h3 align="center">I'm Full Stack Developer From Indonesia</h3>
+<h3 align="center">I Am Full Stack Developer From Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orewakimi&label=Profile%20views&color=0e75b6&style=flat" alt="orewakimi" /> </p>
