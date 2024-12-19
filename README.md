@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://github.com/orewakimi)
-<h1 align="center">Hi, I'm Kimi Maulana</h1>
-<h3 align="center">I Am a Fullstack Developer From Indonesia</h3>
+<h1 align="left">Hi, I'm Kimi Maulana</h1>
+<h3 align="left">I Am a Fullstack Developer From Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -26,6 +26,7 @@
   <a href="https://fb.com/kimi.maulana" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kimi Maulana" height="30" width="40" />
   </a>
+
   <a href="https://instagram.com/kimi_maulana" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kimi Maulana" height="30" width="40" />
   </a>
