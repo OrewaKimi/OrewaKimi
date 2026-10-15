@@ -8,13 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=orewakimi&label=Profile%20views&color=0e75b6&style=flat" alt="orewakimi" /> 
 </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React, Golang, Vue, Node.js**
+- I’m currently learning **React, Golang, Vue, Node.js**
 
-- 💬 Ask me about **Frontend, Backend, or Fullstack**
+- Ask me about **Frontend, Backend, or Fullstack**
 
-- 📫 How to reach me: **kimi93.com@gmail.com**
+- How to reach me: **kimi93.com@gmail.com**
 
 ---
 
